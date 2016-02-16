@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PUUIKit: 1dd154a10bac0af01aea341a7c3c6e82d8b77544
+  PUUIKit: ea05bdd2fa6d9a501cf57bb6dd7ff14dd04ae849
 
 COCOAPODS: 0.39.0
