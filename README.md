@@ -17,12 +17,12 @@ PUUIKit is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "PUUIKit"
+pod "PUUIKit", git: "https://github.com/parku/PUStaticDataSource.git"
 ```
 
 ## Author
 
-Danilo, dabio@users.noreply.github.com
+Danilo, danilo@parku.com
 
 ## License
 

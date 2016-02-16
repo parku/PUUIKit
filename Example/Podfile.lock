@@ -1,0 +1,14 @@
+PODS:
+  - PUUIKit (0.1.0)
+
+DEPENDENCIES:
+  - PUUIKit (from `../`)
+
+EXTERNAL SOURCES:
+  PUUIKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PUUIKit: 1dd154a10bac0af01aea341a7c3c6e82d8b77544
+
+COCOAPODS: 0.39.0

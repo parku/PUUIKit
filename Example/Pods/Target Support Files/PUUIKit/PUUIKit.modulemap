@@ -1,0 +1,6 @@
+framework module PUUIKit {
+  umbrella header "PUUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
